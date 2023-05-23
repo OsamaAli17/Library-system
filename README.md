@@ -62,4 +62,4 @@ Acknowledgments
 Special thanks to Osama Ali for creating the Library Management System.
 
 Contact
-If you have any questions or need further assistance, please feel free to contact Osama Ali at email@example.com.
+If you have any questions or need further assistance, please feel free to contact Osama Ali at 09oshas@gmail.com.
